@@ -1,6 +1,27 @@
 {
-  
-"message":"📌 ยินดีต้อนรับเข้าสู่​ APP​ CARTOON™\nแอพพลิเคชั่น\nอัพเดตเมื่อ\n30/08/65\nกรุณาอัพเดทเวอร์ชั่นใหม่ล่าสุด\n📌 มิเช่นนั้นจะอัพไฟล์ใหม่ๆไม่ใด้\n1 ปรับเป็น sdk version30\n2 แก้ไขแพคเกจ \n3 แก้เป็น 64bit \n4 เปลี่ยนหน้า UI ใหม่\n\n พัฒนาโดยNOOKER \n\n version 2.2\n",
-   "title":"แอพเวอร์ชั่นใหม่มาแล้ว ",
-   "version":1.2
+// 
+"Version":"1.1",
+//link for server update
+"Url":"https://github.com/waipainghtoo/NKZA99/raw/main/htoohtoo.zip" ,
+"Changelog":"
+ဖိုင်အသစ်တွေရဖို့ အပ်ဒိတ် လုပ်လိုက်ပါဗျာ့
+
+အသုံးပြုနိုင်သောဆင်းကဒ်
+🔰DTAC NOPRO🔰
+🛑TRUE NOPRO 🛑
+💡AIS PLAY💡
+🇱🇷Add US 3File
+
+Server by 🇲🇲Myo Min Tun🇲🇲
+",
+ 
+ 
+ 
+// don't mess with the bottom
+"latestVersion": "1.0.0",
+"latestVersionCode": "",
+"url": "",
+ "releaseNotes": [
+ "-Demo"
+  ]
 }
