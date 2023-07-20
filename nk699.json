@@ -1,27 +1,156 @@
 {
-// 
-"Version":"1.2",
-//link for server update
-"Url":"https://github.com/waipainghtoo/NKZA99/raw/main/htoohtoo.zip" ,
-"Changelog":"
-ဖိုင်အသစ်တွေရဖို့ အပ်ဒိတ် လုပ်လိုက်ပါဗျာ့
+   "files": [   
+ {
+         "name": "Dtac​ Free SG01",
+         "url": "https://raw.githubusercontent.com/Nknooker/Nknooker/main/Dtac%20Free%20SG01.ovpn"
+      },
+      
+       {
+         "name": "Dtac Free​ SG02",
+         "url": "https://raw.githubusercontent.com/Nknooker/Nknooker/main/Dtac%20Free%20SG02.ovpn"
+      },
+      
+      {
+         "name": "Dtac Free​ SG03",
+         "url": "https://raw.githubusercontent.com/Nknooker/Nknooker/main/Dtac%20Free%20SG03.ovpn" 
+      },
+      
+      {
+         "name": "Dtac Free​ SG04",
+         "url": "https://raw.githubusercontent.com/Nknooker/Nknooker/main/Dtac%20Free%20SG04.ovpn" 
+      },
+      
+      {
+         "name": "Dtac Free​ SG05",
+         "url": "https://raw.githubusercontent.com/Nknooker/Nknooker/main/Dtac%20Free%20SG05.ovpn" 
+      },
+      
+      {
+         "name": "Dtac Free​ SG06",
+         "url": "https://raw.githubusercontent.com/Nknooker/Nknooker/main/Dtac%20Free%20SG06.ovpn" 
+      },
+      
+      {
+         "name": "True Free SG01",
+         "url": "https://raw.githubusercontent.com/Nknooker/Nknooker/main/True%20Free%20SG01.ovpn"
+      },
+      
+      {
+         "name": "True Free SG02",
+         "url": "https://raw.githubusercontent.com/Nknooker/Nknooker/main/True%20Free%20SG02.ovpn"
+      },
+      
+      {
+         "name": "True Free SG03",
+         "url": "https://raw.githubusercontent.com/Nknooker/Nknooker/main/True%20Free%20SG03.ovpn"
+      },
+      
+       {
+         "name": "Dtac Free  CA01",
+         "url": "https://raw.githubusercontent.com/Nknooker/Nknooker/main/Dtac%20Free%20CA01.ovpn"
+      },
 
-အသုံးပြုနိုင်သောဆင်းကဒ်
-🔰DTAC NOPRO🔰
-🛑TRUE NOPRO 🛑
-💡AIS PLAY💡
-🇱🇷Add US 3File
+       {
+         "name": "Dtac Free  CA02",
+         "url": "https://raw.githubusercontent.com/Nknooker/Nknooker/main/Dtac%20Free%20CA02.ovpn" 
+      },
 
-Server by 🇲🇲Myo Min Tun🇲🇲
-",
- 
- 
- 
-// don't mess with the bottom
-"latestVersion": "1.0.0",
-"latestVersionCode": "",
-"url": "",
- "releaseNotes": [
- "-Demo"
-  ]
-}
+       {
+         "name": "Dtac Free  CA03",
+         "url": "https://raw.githubusercontent.com/Nknooker/Nknooker/main/Dtac%20Free%20CA01.ovpn"
+      },
+      
+             {
+         "name": "Dtac Free  DA01",
+         "url": "https://raw.githubusercontent.com/Nknooker/Nknooker/main/Dtac%20Free%20DE01.ovpn"
+      },
+      
+      {
+         "name": "Dtac Free  DA02",
+         "url": "https://raw.githubusercontent.com/Nknooker/Nknooker/main/Dtac%20Free%20DE02.ovpn"
+      },
+
+{
+         "name": "Dtac Free  DA03",
+         "url": "https://raw.githubusercontent.com/Nknooker/Nknooker/main/Dtac%20Free%20DE03.ovpn"
+      },
+
+{
+         "name": "Dtac Free  HK01",
+         "url": "https://raw.githubusercontent.com/Nknooker/Nknooker/main/Dtac%20Free%20HK01.ovpn"
+      },
+      
+      {
+         "name": "Dtac Free  HK02",
+         "url": "https://raw.githubusercontent.com/Nknooker/Nknooker/main/Dtac%20Free%20HK02.ovpn"
+      },
+
+{
+         "name": "Dtac Free  HK03",
+         "url": "https://raw.githubusercontent.com/Nknooker/Nknooker/main/Dtac%20Free%20HK03.ovpn"
+      },
+      
+      {
+         "name": "Dtac Free  JP01",
+         "url": "https://raw.githubusercontent.com/Nknooker/Nknooker/main/Dtac%20Free%20JP01.ovpn"
+      },
+      
+      {
+         "name": "Dtac Free  JP02",
+         "url": "https://raw.githubusercontent.com/Nknooker/Nknooker/main/Dtac%20Free%20JP02.ovpn"
+      },
+      
+      {
+         "name": "Dtac Free  JP03",
+         "url": "https://raw.githubusercontent.com/Nknooker/Nknooker/main/Dtac%20Free%20JP03.ovpn"
+      },
+
+{
+         "name": "Dtac Free  AU01",
+         "url": "https://raw.githubusercontent.com/Nknooker/Nknooker/main/Dtac%E2%80%8B%20Free%E2%80%8B%20AU01.ovpn"
+      },
+      
+      {
+         "name": "Dtac Free  AU02",
+         "url": "https://raw.githubusercontent.com/Nknooker/Nknooker/main/Dtac%E2%80%8B%20Free%E2%80%8B%20AU02.ovpn"
+      },
+
+{
+         "name": "Dtac Free  AU03",
+         "url": "https://raw.githubusercontent.com/Nknooker/Nknooker/main/Dtac%E2%80%8B%20Free%E2%80%8B%20AU03.ovpn"
+      },
+
+{
+         "name": "True Free  AU01",
+         "url": "https://raw.githubusercontent.com/Nknooker/Nknooker/main/True%20Free%20AU01.ovpn"
+      },
+      
+      
+      {
+         "name": "True Free  AU02",
+         "url": "https://raw.githubusercontent.com/Nknooker/Nknooker/main/True%20Free%20AU02.ovpn"
+      },
+      
+      
+    {
+         "name": "True Free  AU03",
+         "url": "https://raw.githubusercontent.com/Nknooker/Nknooker/main/True%20Free%20AU03.ovpn"
+      },  
+      
+    {
+         "name": "True Free  TH01",
+         "url": "https://raw.githubusercontent.com/Nknooker/Nknooker/main/DTAC%20Free%20TH01.ovpn"
+      },   
+      
+      {
+         "name": "True Free  TH02",
+         "url": "https://raw.githubusercontent.com/Nknooker/Nknooker/main/True%20Free%20TH%E2%80%8B02.ovpn"
+      }   
+      
+      
+
+   ],
+"message":" \nรองรับ NOPRO Dtac  True​\n​DTAC​ NOPRO\n​TRUE​ NOPRO\nเซิร์ฟเวอร์ไม่แรง\nต้องขออภัยมาใน ณ ที่นี้ด้วยครับ\nเคดิตไฟล์ Addmin kan\n คอนฟิกเวอร์ชั่น: 1.2​ \nอัพเดทเมื่อวันที่: 27/กย/2022\n \nผู้พัฒนาแอพ:NOOKER\n  ",
+   "title":"ไฟล์อัพเดทใหม่พร้อมใช้งาน" ,
+   "version": 1.1
+    }
